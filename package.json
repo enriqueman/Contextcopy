@@ -1,0 +1,12 @@
+{
+  "name": "context-copy",
+  "version": "1.0.0",
+  "description": "Files to copy routes and files to make question to llm",
+  "copy": "CopiFiles2Txt.js",
+  "structure": "listStructure.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
